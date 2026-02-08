@@ -81,6 +81,8 @@
 - LightGBM
 - CatBoost
 - SVM
+- Ridge
+
 
 | Модель           | RMSE | R²   |
 | ---------------- | ---- | ---- |
@@ -89,6 +91,14 @@
 | XGBoost          | 0.52 | 0.86 |
 | LightGBM         | 0.51 | 0.86 |
 | CatBoost         | 0.50 | 0.87 |
+| Ridge            | 0.56 | 0.83 |
 
 
 
+## Выводы
+
+- Модель регрессии случайного леса(RandomForestRegressor) показала наилучший результат по всем тестам.
+- Лучшими параметрами для модели оказались:
+```python
+max_depth=9, min_samples_split=5, min_samples_leaf=2, max_features=20
+```
