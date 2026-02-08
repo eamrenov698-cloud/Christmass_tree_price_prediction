@@ -38,6 +38,7 @@
 
 Данные были собраны с помощью **Selenium** на сайте kaspi.kz.
 
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/86c6e5c7-c293-4826-b756-881a7a7d2591" />
 
 Процесс подготовки данных включал:
 
@@ -45,8 +46,6 @@
 - Преобразование категориальных переменных в числовые (One-Hot Encoding, Label Encoding)
 - Масштабирование и трансформацию данных
 - Разделение на тренировочный и тестовый наборы
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/86c6e5c7-c293-4826-b756-881a7a7d2591" />
 
 
 ---
