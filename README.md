@@ -100,5 +100,5 @@
 - Модель регрессии случайного леса(RandomForestRegressor) показала наилучший результат по всем тестам.
 - Лучшими параметрами для модели оказались:
 ```python
-max_depth=9, min_samples_split=5, min_samples_leaf=2, max_features=20
+RandomForestRegressor(max_depth=9, min_samples_split=5, min_samples_leaf=2, max_features=20)
 ```
