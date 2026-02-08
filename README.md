@@ -46,8 +46,7 @@
 - Масштабирование и трансформацию данных
 - Разделение на тренировочный и тестовый наборы
 
-<img width="895" height="659" alt="image" src="https://github.com/user-attachments/assets/86c6e5c7-c293-4826-b756-881a7a7d2591" />
-<img width="492" height="422" alt="image" src="https://github.com/user-attachments/assets/a6a9962d-c997-4001-a108-0046f71806c1" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/86c6e5c7-c293-4826-b756-881a7a7d2591" />
 
 
 ---
