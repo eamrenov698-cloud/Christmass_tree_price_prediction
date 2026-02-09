@@ -47,7 +47,7 @@
 - Масштабирование и трансформацию данных
 - Разделение на тренировочный и тестовый наборы
 В ходе этой работы были созданы временные файлы 'kaspitrees_prefiltered.xlsx, kaspi_products_85_done.xlsx, kaspitrees_filled.xlsx'. При желании работать с уже очищенными данными, вы можете перейти сразу к файлу
-"kaspitrees_filtered.xlsx"
+"kaspitrees_filtered.xlsx" внутри папки "data".
 
 ---
 
