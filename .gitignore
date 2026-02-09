@@ -1,20 +1,10 @@
 # ===============================
-# Python / Jupyter defaults
-# ===============================
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.ipynb_checkpoints/
-
-# ===============================
 # Data files
 # ===============================
 # Intermediate / processed datasets
-df.pkl
-df_filled.pkl
-df_filtered.pkl
-df_done.pkl
+data/kaspitrees_flled.xlsx
+data/kaspitrees_prefiltered.xlsx
+data/kaspi_products_85_done.xlsx
 
 # ===============================
 # CatBoost
@@ -25,4 +15,3 @@ catboost_info/
 # Environment / system
 # ===============================
 .env
-venv/
